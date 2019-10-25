@@ -1,3 +1,3 @@
 # Crypto
 #####
-Simple DES & RSA implementations.
+Very simple DES & RSA implementations. 
